@@ -8,4 +8,6 @@ example of compiling and running with g++ (terminal commands) : <br />
 _g++ happynumbers.cpp -o happynumbers <br />
 ./happynumbers_  <br />
 
+After executing the program, via a menu you can either choose to check a single number for happiness, or search for all happy numbers up to a limit.
 
+have fun
